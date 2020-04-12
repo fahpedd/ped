@@ -1,17 +1,17 @@
-Rank,Rank2,Team,Year,Total_Game,Win,Draw,Loss,GF,GA,GD,Total_Score
-1,1,Bangkok United F.C.,2020,4,4,0,0,10,3,7,12
-2,0.9,Ratchaburi Mitr Phol F.C.,2020,4,4,0,0,9,4,5,12
-3,0.9,Port F.C.,2020,4,3,1,0,11,4,7,10
-4,0.8,BG Pathum United F.C.,2020,4,3,1,0,6,1,5,10
-5,0.8,Police Tero F.C.,2020,4,3,0,1,5,4,1,9
-6,0.7,Suphanburi F.C.,2020,4,2,1,1,4,3,1,7
-7,0.6,SCG MUANGTHONG UNITED,2020,4,2,0,2,6,4,2,6
-8,0.6,Sukhothai F.C.,2020,4,2,0,2,6,6,0,6
-9,0.5,Chonburi F.C.,2020,4,2,0,2,5,6,-1,6
-10,0.4,Chiangrai United F.C.,2020,4,1,2,1,7,7,0,5
-11,0.4,Buriram United F.C.,2020,4,1,1,2,8,6,2,4
-12,0.3,Nakhon Ratchasima F.C.,2020,4,1,0,3,4,9,-5,3
-13,0.3,PT Prachuap F.C.,2020,4,0,1,3,2,6,-4,1
-14,0.2,Samut Prakan City F.C.,2020,4,0,1,3,3,8,-5,1
-15,0.1,PTT Rayong F.C.,2020,4,0,0,4,1,8,-7,0
-16,0.1,Trat F.C.,2020,4,0,0,4,1,9,-8,0
+Rank,Team,Year,Total_Game,Win,Draw,Loss,GF,GA,GD,Total_Score
+1,Bangkok United F.C.,2020,4,4,0,0,10,3,7,12
+2,Ratchaburi Mitr Phol F.C.,2020,4,4,0,0,9,4,5,12
+3,Port F.C.,2020,4,3,1,0,11,4,7,10
+4,BG Pathum United F.C.,2020,4,3,1,0,6,1,5,10
+5,Police Tero F.C.,2020,4,3,0,1,5,4,1,9
+6,Suphanburi F.C.,2020,4,2,1,1,4,3,1,7
+7,SCG MUANGTHONG UNITED,2020,4,2,0,2,6,4,2,6
+8,Sukhothai F.C.,2020,4,2,0,2,6,6,0,6
+9,Chonburi F.C.,2020,4,2,0,2,5,6,-1,6
+10,Chiangrai United F.C.,2020,4,1,2,1,7,7,0,5
+11,Buriram United F.C.,2020,4,1,1,2,8,6,2,4
+12,Nakhon Ratchasima F.C.,2020,4,1,0,3,4,9,-5,3
+13,PT Prachuap F.C.,2020,4,0,1,3,2,6,-4,1
+14,Samut Prakan City F.C.,2020,4,0,1,3,3,8,-5,1
+15,PTT Rayong F.C.,2020,4,0,0,4,1,8,-7,0
+16,Trat F.C.,2020,4,0,0,4,1,9,-8,0
